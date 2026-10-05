@@ -1,18 +1,19 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Header Avatar -->
   <img src="https://ankit8582.github.io/Portfolio/profile.jpg" alt="Ankit Kumar" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 25px rgba(0, 242, 254, 0.4); object-fit: cover;" />
 
-  # Hi there, I'm <span style="color:#00f2fe;">Ankit Kumar</span> 👋
+  # Hi there, I'm <span style="color:#00f2fe;">Ankit Kumar</span> ðŸ‘‹
 
-  ### 🚀 MERN Stack Developer & Aspiring DevOps Engineer
+  ### ðŸš€ MERN Stack Developer & Aspiring DevOps Engineer
   **MCA Post-Graduate Candidate @ Noida Institute of Engineering & Technology (NIET)**  
-  📍 *Noida / Greater Noida, Uttar Pradesh, India*
+  ðŸ“ *Noida / Greater Noida, Uttar Pradesh, India*
 
   <p align="center">
-    <a href="https://ankit8582.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-00f2fe?style=for-the-badge&logoColor=black&color=00f2fe" alt="Portfolio" /></a>
+    <a href="https://ankit8582.github.io/Portfolio/"><img src="https://img.shields.io/badge/ðŸŒ_Live_Portfolio-00f2fe?style=for-the-badge&logoColor=black&color=00f2fe" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ankit-kumar8582"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:as3000610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://raw.githubusercontent.com/ankit8582/ankit8582/main/Ankit_Kumar_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume_PDF-E11D48?style=for-the-badge&logoColor=white" alt="Resume PDF" /></a>
   </p>
 
   <!-- Typing SVG -->
@@ -24,17 +25,17 @@
 
 ---
 
-### 💫 About Me
+### ðŸ’« About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **Noida Institute of Engineering and Technology (NIET)**, Greater Noida (2024–2026 | CGPA: 7.64).
-- 💻 Passionate about building robust, scalable web architectures with **React, Node.js, Express, and MongoDB**.
-- ☁️ Actively exploring **Cloud & DevOps ecosystems** — AWS Foundations, Linux server administration, CI/CD pipelines, and Railway deployments.
-- 🛠️ Creator of **Team Task Manager**, **Student Management System**, and **DigiMenu Card**.
-- ⚡ Fun fact: *Obsessed with clean code architecture, terminal productivity, and live developer dashboards!*
+- ðŸŽ“ Pursuing **Master of Computer Applications (MCA)** at **Noida Institute of Engineering and Technology (NIET)**, Greater Noida (2024â€“2026 | CGPA: 7.64).
+- ðŸ’» Passionate about building robust, scalable web architectures with **React, Node.js, Express, and MongoDB**.
+- â˜ï¸ Actively exploring **Cloud & DevOps ecosystems** â€” AWS Foundations, Linux server administration, CI/CD pipelines, and Railway deployments.
+- ðŸ› ï¸ Creator of **Team Task Manager**, **Student Management System**, and **DigiMenu Card**.
+- âš¡ Fun fact: *Obsessed with clean code architecture, terminal productivity, and live developer dashboards!*
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### ðŸ› ï¸ Tech Stack & Tooling
 
 <div align="center">
 
@@ -49,35 +50,35 @@
 
 ---
 
-### 🚀 Featured Production Projects
+### ðŸš€ Featured Production Projects
 
-#### 1. 📋 [Team Task Manager](https://ankit8582.github.io/Portfolio/#projects) (MERN + Railway)
+#### 1. ðŸ“‹ [Team Task Manager](https://ankit8582.github.io/Portfolio/#projects) (MERN + Railway)
 - **Tech:** React.js, Node.js, Express, MongoDB, JWT Authentication, REST APIs
 - **Overview:** Collaborative task and project management suite featuring Kanban workflows, JWT authentication, and team activity streams. Deployed with cloud-native CI/CD on **Railway**.
-- 🔗 [Live Demo](https://ankit8582.github.io/Portfolio/#projects) · [GitHub Profile](https://github.com/ankit8582)
+- ðŸ”— [Live Demo](https://ankit8582.github.io/Portfolio/#projects) Â· [GitHub Profile](https://github.com/ankit8582)
 
-#### 2. 🎓 Student Management System
+#### 2. ðŸŽ“ Student Management System
 - **Tech:** Java, MySQL, JDBC, OOP Architecture
 - **Overview:** Enterprise desktop solution for student admission tracking, fee payment processing, academic report generation, and secure record transactions.
 
-#### 3. 📱 DigiMenu Card
+#### 3. ðŸ“± DigiMenu Card
 - **Tech:** Vanilla JavaScript, Modern CSS3, HTML5, LocalStorage
 - **Overview:** Mobile-first, QR contactless restaurant menu featuring interactive category filters, real-time cart calculations, and responsive UX.
 
 ---
 
-### 📜 Certifications & Credentials
+### ðŸ“œ Certifications & Credentials
 
-- ☁️ **AWS Academy Graduate – Cloud Foundations** *(AWS Academy / Training Bridge)*
-- ☕ **Virtual Internship in Java Development** *(EduSkills & AICTE)*
-- 🐧 **Linux for Beginners** *(Infosys Springboard)*
-- 🌐 **Web Technologies & Architecture** *(Infosys Springboard)*
-- ⚡ **Getting Started with AWS** *(SkillUp by Simplilearn)*
-- ☁️ **Introduction to Cloud Computing**
+- â˜ï¸ **AWS Academy Graduate â€“ Cloud Foundations** *(AWS Academy / Training Bridge)*
+- â˜• **Virtual Internship in Java Development** *(EduSkills & AICTE)*
+- ðŸ§ **Linux for Beginners** *(Infosys Springboard)*
+- ðŸŒ **Web Technologies & Architecture** *(Infosys Springboard)*
+- âš¡ **Getting Started with AWS** *(SkillUp by Simplilearn)*
+- â˜ï¸ **Introduction to Cloud Computing**
 
 ---
 
-### 📊 GitHub Activity & Stats
+### ðŸ“Š GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit8582&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankit's GitHub Stats" />
@@ -91,7 +92,7 @@
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect & Collaborate!</h3>
+  <h3>ðŸ¤ Let's Connect & Collaborate!</h3>
   <p>I'm always open to discussing new engineering opportunities, internships, and full-stack projects.</p>
 
   <a href="https://www.linkedin.com/in/ankit-kumar8582">
@@ -106,3 +107,4 @@
     <img src="https://img.shields.io/badge/Portfolio-ankit8582.github.io-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
